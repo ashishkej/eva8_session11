@@ -15,9 +15,9 @@
         - Share 10 examples of output
 
 # Submission
-[ BERT Notebook](https://github.com/ashishkej/eva8_session9/blob/main/EVA8_Session9_Assignment.ipynb)
+[ BERT Notebook](https://github.com/ashishkej/eva8_session11/blob/main/BERT/BERT.ipynb)
 
-[GPT Notebook](https://github.com/ashishkej/eva8-pytorch-models)
+[GPT Notebook](https://github.com/ashishkej/eva8_session11/blob/main/GPT/GPT.ipynb)
 
 
 
